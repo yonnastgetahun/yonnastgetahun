@@ -53,15 +53,6 @@ A privacy-first tool that turns W-9s and invoices into approval-ready purchase o
 - ✅ Confidence indicators on extracted fields — AI-native trust UX
 - 📄 3-step flow: Upload documents → Review & confirm → Generate PO as PDF
 
-### 🌐 Cocoon "Grand" — *Private Immersive Sphere* `Concept`
-
-A product vision for the world's first Personal Immersive Environment (PIE) — a 20-foot, 8K curved-screen home theater that brings the Las Vegas Sphere experience into private residences.
-
-- 🖥️ 270° horizontal × 130° vertical wrap with seamless 8K Micro-LED canvas
-- 🪑 D-BOX motion recliners with haptic feedback synchronized to content
-- 🔊 128-channel Atmos spatial audio dome with ceiling-integrated speakers
-- 🎬 Generative peripheral fill extends content beyond the 16:9 primary focus zone
-
 ---
 
 ## 🧰 Core Skills
