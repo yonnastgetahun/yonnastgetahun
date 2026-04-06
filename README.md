@@ -26,14 +26,15 @@ A 3B parameter vision-language model that generates cinematic audio descriptions
 - 🏗️ B2B2C for streaming platforms — professional-grade audio description at a fraction of traditional costs
 - 📄 Patent pending: AI glasses cinema accessibility system with sub-100ms latency & spatial audio rendering
 
-### 🧠 SciLogic — *Critical Thinking Trainer for the Misinformation Age* `iOS` `In Development`
+### 🧠 SHRPR — *Decision Fitness App* `iOS` `Live on the App Store`
 
-A mobile app that builds real-world BS detection skills through 3-minute daily scenarios. Users evaluate viral claims, spot logical fallacies, and develop the reflex to question before sharing — progressing from reactive embarrassment to confident, articulate skepticism.
+Originally developed as SciLogic, SHRPR is a published iOS decision-fitness app that builds real-world critical thinking skills through case-based scenarios. Solo-built from concept to App Store approval in 8 days using multi-agent AI development. Live at shrpr.me.
 
-- 📱 iOS app with case-based learning and streak mechanics
-- 🎯 5 transformation outcomes: confident pause, articulate disagreement, respected thinker, savvy skeptic, role model parent
-- 📈 Progressive skill curve: pattern recognition (Week 1) → articulation (30 days) → identity shift (90 days)
-- 💡 Positioned as personal training, not education — "Your BS detector for the modern world"
+* 📱 Live on the App Store - case-based learning, XP system, 8 rank tiers, 9 badges, daily streaks
+* 🎯 4 Acts with progressive unlock gates across 105 original case files
+* 📈 Positioned as decision fitness, not education - "Sharpen your thinking, one case at a time"
+* 💡 Built for The Sharp Parent (30-50) - adults who want to think more clearly and model it for their kids
+* ⚡ Equivalent traditional development cost: $55K-$130K. Actual cost: Claude Pro + $99 Apple Developer account
 
 ### 📚 Lendlee — *Community-Powered Lending Tracker* `iOS` `In Development`
 
