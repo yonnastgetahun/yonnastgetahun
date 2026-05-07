@@ -1,6 +1,6 @@
 # Hi, I'm Yonnas 👋
 
-📍 **Los Angeles, CA** | 🚀 **AI Product Leader** | 🤖 **Multi-Agent Systems** | 🎙️ **Accessibility Pioneer** | ✍️ **Published Poet**
+📍 **Los Angeles, CA** | 🚀 **AI Product Leader** | 🤖 **Multi-Agent Systems** | 🎙️ **Accessibility Champion** | ✍️ **Published Poet**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
