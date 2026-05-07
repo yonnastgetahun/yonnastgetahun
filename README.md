@@ -118,9 +118,9 @@ A privacy-first tool that turns W-9s and invoices into approval-ready purchase o
 | Domain | Details |
 |---|---|
 | **AI/ML** | Vision-Language Models, Multi-Agent Orchestration, Agentic Systems, LLM Routing, Voice AI, Real-Time Inference, PyTorch, Model Optimization |
-| **Product** | 0→1 Strategy, Brand Strategy & Governance, Information Architecture, Client Product Strategy, B2B2C & Consumer Positioning, Patent Development, Transformation-Driven Design |
+| **Product** | 0→1 Strategy, Brand Strategy & Governance, Information Architecture, Content Strategy, Launch Governance, UX Direction, Client Product Strategy, B2B2C & Consumer Positioning, Patent Development, Transformation-Driven Design |
 | **Engineering** | Python, TypeScript, Swift, SwiftUI, React, Expo, Bun, Supabase, Telnyx, iMessage Extensions, AWS, Docker, CI/CD |
-| **Domain Expertise** | AI Orchestration, Accessibility, Streaming/Media, Immersive Entertainment, Premium Brand Experiences, Production Finance |
+| **Domain Expertise** | AI Orchestration, Accessibility, Education Technology, Streaming/Media, Immersive Entertainment, Premium Brand Experiences, Production Finance, Agency Operations |
 
 ---
 
