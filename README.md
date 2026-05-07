@@ -48,12 +48,15 @@ Groker has successfully planned, implemented, reviewed, and merged features acro
 
 #### 📞 Agentic Orchestration Call-in Stand-up Voice Prototype `Internal Tool` `Live (Prototype)`
 
-A voice AI interface to the Groker system, reachable by phone. Delivers daily AI stand-ups, answers questions about the live task board, and accepts voice commands to approve plans or complete tasks — all via a standard phone call.
+<details>
+<summary>A voice AI interface to the Groker system, reachable by phone. Delivers daily AI stand-ups, answers questions about the live task board, and accepts voice commands to approve plans or complete tasks — all via a standard phone call.</summary>
 
 - 📲 Live at **+1 (213) 512-0334** — call to interact with your AI task system
 - 🌅 Automated 7am daily stand-up delivered via Telegram with live task context
 - 🎯 Caller ID awareness — greets by name, loads personalized project context
 - 🔗 Powered by Telnyx Call Control + OpenClaw gateway + GPT-5.5
+
+</details>
 
 ---
 
@@ -61,12 +64,15 @@ A voice AI interface to the Groker system, reachable by phone. Delivers daily AI
 
 #### 🎙️ [Visual Narrator](https://github.com/yonnastgetahun/visual-narrator-llm) — *AI-Powered Real-Time Audio Description* `Web App` `B2B2C` `In Development`
 
-A 3B parameter vision-language model that generates cinematic audio descriptions for visual media — making video accessible to blind and low-vision users in real time.
+<details>
+<summary>A 3B parameter vision-language model that generates cinematic audio descriptions for visual media — making video accessible to blind and low-vision users in real time.</summary>
 
 - ⚡ **2.4ms inference latency** (960x faster than GPT-4's 2.3s)
 - 🎯 Beat GPT-4o on narrative quality benchmarks
 - 🏗️ B2B2C for streaming platforms — professional-grade audio description at a fraction of traditional costs
 - 📄 Patent pending: AI glasses cinema accessibility system with sub-100ms latency & spatial audio rendering
+
+</details>
 
 ---
 
@@ -74,16 +80,20 @@ A 3B parameter vision-language model that generates cinematic audio descriptions
 
 #### 💌 [Flokt](https://github.com/yonnastgetahun/Flokt) — *RSVP Together* `iOS App` `iMessage App` `App Store`
 
-An iMessage extension that makes group RSVPs frictionless — invite friends, collect RSVPs, and coordinate plans without leaving Messages. Solo-built from zero to App Store using multi-agent AI development.
+<details>
+<summary>An iMessage extension that makes group RSVPs frictionless — invite friends, collect RSVPs, and coordinate plans without leaving Messages. Solo-built from zero to App Store using multi-agent AI development.</summary>
 
 - 📱 Native iMessage extension built with SwiftUI
 - 🎉 Compact + detail view transitions for seamless in-thread coordination
 - 👥 Real-time RSVP tracking: going, maybe, can't make it
 - ⚡ Built with multi-agent AI: concept to App Store in days, not months
 
+</details>
+
 #### 🧠 [SHRPR](https://shrpr.me) — *Decision Fitness App* `iOS App` `App Store`
 
-A published iOS decision-fitness app that builds real-world critical thinking skills through case-based scenarios. Solo-built from concept to App Store in 8 days using multi-agent AI development.
+<details>
+<summary>A published iOS decision-fitness app that builds real-world critical thinking skills through case-based scenarios. Solo-built from concept to App Store in 8 days using multi-agent AI development.</summary>
 
 - 📱 Live on the App Store — XP system, 8 rank tiers, 9 badges, daily streaks
 - 🎯 4 Acts with progressive unlock gates across 105 original case files
@@ -91,14 +101,19 @@ A published iOS decision-fitness app that builds real-world critical thinking sk
 - 💡 Built for The Sharp Parent (30–50) — adults who want to think more clearly and model it for their kids
 - ⚡ Equivalent traditional development cost: $55K–$130K. Actual cost: Claude Pro + $99 Apple Developer account
 
+</details>
+
 #### 📚 [Lendlee](https://lend-a-hand-happy.lovable.app/) — *Community-Powered Lending Tracker* `iOS App` `Google Play` `Pre-Launch`
 
-A relationship-first app that tracks items lent to friends and neighbors with gentle automated reminders — so generosity never costs a friendship.
+<details>
+<summary>A relationship-first app that tracks items lent to friends and neighbors with gentle automated reminders — so generosity never costs a friendship.</summary>
 
 - 💚 Inspired by the Buy Nothing movement — mutual aid meets thoughtful UX
 - 🔄 Core build complete: WHO → WHAT → WHEN → SMS flow fully implemented
 - 📦 Supabase backend live, Expo mobile app built, SMS notifications integrated
 - 🌱 iOS + Android builds ready — targeting App Store and Google Play submission
+
+</details>
 
 ---
 
@@ -106,12 +121,15 @@ A relationship-first app that tracks items lent to friends and neighbors with ge
 
 #### 📋 [Continuity PO Maker](https://github.com/yonnastgetahun/continuityflow) — *Production Finance Workflow Tool* `Web App` `Desktop` `Beta`
 
-A privacy-first tool that turns W-9s and invoices into approval-ready purchase orders for film, TV, and commercial production teams. Local document processing — no cloud upload required.
+<details>
+<summary>A privacy-first tool that turns W-9s and invoices into approval-ready purchase orders for film, TV, and commercial production teams. Local document processing — no cloud upload required.</summary>
 
 - 🔒 Local-first architecture: sensitive financial data never leaves the browser
 - 🎬 Built for production coordinators and line producers who live in spreadsheets
 - ✅ Confidence indicators on extracted fields — AI-native trust UX
 - 📄 3-step flow: Upload documents → Review & confirm → Generate PO as PDF
+
+</details>
 
 ---
 
