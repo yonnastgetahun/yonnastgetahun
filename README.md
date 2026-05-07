@@ -34,9 +34,7 @@
 
 ### 🤖 AI Agentic & Orchestration
 
----
-
-### ⚙️ Groker — *Multi-Agent AI Orchestration System* `Internal Tool` `Live`
+#### ⚙️ Groker — *Multi-Agent AI Orchestration System* `Internal Tool` `Live`
 
 A personal AI operating system that orchestrates specialized agents — Sage (architect), Ralph (engineer), Witness (QA) — to execute end-to-end software development autonomously. Groker has successfully planned, implemented, reviewed, and merged features across multiple live products without human intervention at the task level.
 
@@ -46,9 +44,7 @@ A personal AI operating system that orchestrates specialized agents — Sage (ar
 - 🔄 Role-based agent routing: architect → engineer → QA judge per task type
 - ⚡ Provider-agnostic: routes to GPT-5.5, Claude, DeepSeek, or Qwen based on task tier
 
----
-
-### 📞 Agentic Orchestration Call-in Stand-up Voice Prototype `Internal Tool` `Live (Prototype)`
+#### 📞 Agentic Orchestration Call-in Stand-up Voice Prototype `Internal Tool` `Live (Prototype)`
 
 A voice AI interface to the Groker system, reachable by phone. Delivers daily AI stand-ups, answers questions about the live task board, and accepts voice commands to approve plans or complete tasks — all via a standard phone call.
 
@@ -59,7 +55,9 @@ A voice AI interface to the Groker system, reachable by phone. Delivers daily AI
 
 ---
 
-### 🎙️ [Visual Narrator](https://github.com/yonnastgetahun/visual-narrator-llm) — *AI-Powered Real-Time Audio Description* `Web App` `B2B2C` `In Development`
+### 🎙️ Accessibility & AI
+
+#### 🎙️ [Visual Narrator](https://github.com/yonnastgetahun/visual-narrator-llm) — *AI-Powered Real-Time Audio Description* `Web App` `B2B2C` `In Development`
 
 A 3B parameter vision-language model that generates cinematic audio descriptions for visual media — making video accessible to blind and low-vision users in real time.
 
@@ -70,7 +68,9 @@ A 3B parameter vision-language model that generates cinematic audio descriptions
 
 ---
 
-### 💌 [Flokt](https://github.com/yonnastgetahun/Flokt) — *RSVP Together* `iOS App` `App Store`
+### 📱 Consumer Apps
+
+#### 💌 [Flokt](https://github.com/yonnastgetahun/Flokt) — *RSVP Together* `iOS App` `iMessage App` `App Store`
 
 An iMessage extension that makes group RSVPs frictionless — invite friends, collect RSVPs, and coordinate plans without leaving Messages. Solo-built from zero to App Store using multi-agent AI development.
 
@@ -79,9 +79,7 @@ An iMessage extension that makes group RSVPs frictionless — invite friends, co
 - 👥 Real-time RSVP tracking: going, maybe, can't make it
 - ⚡ Built with multi-agent AI: concept to App Store in days, not months
 
----
-
-### 🧠 [SHRPR](https://shrpr.me) — *Decision Fitness App* `iOS App` `App Store`
+#### 🧠 [SHRPR](https://shrpr.me) — *Decision Fitness App* `iOS App` `App Store`
 
 A published iOS decision-fitness app that builds real-world critical thinking skills through case-based scenarios. Solo-built from concept to App Store in 8 days using multi-agent AI development.
 
@@ -91,20 +89,20 @@ A published iOS decision-fitness app that builds real-world critical thinking sk
 - 💡 Built for The Sharp Parent (30–50) — adults who want to think more clearly and model it for their kids
 - ⚡ Equivalent traditional development cost: $55K–$130K. Actual cost: Claude Pro + $99 Apple Developer account
 
----
-
-### 📚 [Lendlee](https://lend-a-hand-happy.lovable.app/) — *Community-Powered Lending Tracker* `iOS App` `Pre-Launch`
+#### 📚 [Lendlee](https://lend-a-hand-happy.lovable.app/) — *Community-Powered Lending Tracker* `iOS App` `Google Play` `Pre-Launch`
 
 A relationship-first app that tracks items lent to friends and neighbors with gentle automated reminders — so generosity never costs a friendship.
 
 - 💚 Inspired by the Buy Nothing movement — mutual aid meets thoughtful UX
 - 🔄 Core build complete: WHO → WHAT → WHEN → SMS flow fully implemented
 - 📦 Supabase backend live, Expo mobile app built, SMS notifications integrated
-- 🌱 Targeting App Store submission
+- 🌱 iOS + Android builds ready — targeting App Store and Google Play submission
 
 ---
 
-### 📋 [Continuity PO Maker](https://github.com/yonnastgetahun/continuityflow) — *Production Finance Workflow Tool* `Web App` `Desktop` `Beta`
+### 🌐 Web & Desktop Tools
+
+#### 📋 [Continuity PO Maker](https://github.com/yonnastgetahun/continuityflow) — *Production Finance Workflow Tool* `Web App` `Desktop` `Beta`
 
 A privacy-first tool that turns W-9s and invoices into approval-ready purchase orders for film, TV, and commercial production teams. Local document processing — no cloud upload required.
 
