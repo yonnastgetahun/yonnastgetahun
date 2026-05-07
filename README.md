@@ -33,13 +33,18 @@
 
 #### ⚙️ Groker — *Multi-Agent AI Orchestration System* `Internal Tool` `Live`
 
-A personal AI operating system that orchestrates specialized agents — Sage (architect), Ralph (engineer), Witness (QA) — to execute end-to-end software development autonomously. Groker has successfully planned, implemented, reviewed, and merged features across multiple live products without human intervention at the task level.
+<details>
+<summary>A personal AI operating system that orchestrates specialized agents — Sage (architect), Ralph (engineer), Witness (QA) — to execute end-to-end software development autonomously.</summary>
+
+Groker has successfully planned, implemented, reviewed, and merged features across multiple live products without human intervention at the task level.
 
 - 🧠 **End-to-end AI development:** From product spec → implementation → QA → merge, fully automated
 - 📋 107 tasks orchestrated across Flokt, Lendlee, and SHRPR — 62 merged autonomously
 - 🗣️ Natural language task creation, plan approval, and status tracking via CLI
 - 🔄 Role-based agent routing: architect → engineer → QA judge per task type
 - ⚡ Provider-agnostic: routes to GPT-5.5, Claude, DeepSeek, or Qwen based on task tier
+
+</details>
 
 #### 📞 Agentic Orchestration Call-in Stand-up Voice Prototype `Internal Tool` `Live (Prototype)`
 
