@@ -55,7 +55,7 @@ A voice AI interface to the Groker system, reachable by phone. Delivers daily AI
 
 ---
 
-### 🎙️ Accessibility & AI
+### 🎙️ AI & Accessibility
 
 #### 🎙️ [Visual Narrator](https://github.com/yonnastgetahun/visual-narrator-llm) — *AI-Powered Real-Time Audio Description* `Web App` `B2B2C` `In Development`
 
