@@ -1,14 +1,17 @@
 # Hi, I'm Yonnas 👋
 
-📍 **Los Angeles, CA** | 🚀 **AI Product Leader** | 🤖 **Multi-Agent Systems** | 🎙️ **Accessibility Champion** | ✍️ **Published Poet**
+📍 **Los Angeles, CA** | 🚀 **AI Product Leader** | 🤖 **Multi-Agent Systems** | 🏗️ **Agency Founder** | 🎙️ **Accessibility Champion** | ✍️ **Published Poet**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![SwiftUI](https://img.shields.io/badge/-SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/)
+[![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
+[![Telnyx](https://img.shields.io/badge/-Telnyx-00C08B?style=flat-square&logo=telnyx&logoColor=white)](https://telnyx.com/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
