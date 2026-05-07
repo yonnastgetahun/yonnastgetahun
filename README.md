@@ -137,11 +137,7 @@ A privacy-first tool that turns W-9s and invoices into approval-ready purchase o
 ## 💬 Ask Me About
 
 - Multi-agent AI orchestration and autonomous software development
-- Building AI-native voice interfaces and phone-based AI systems
 - Building production VLMs with sub-millisecond latency
-- Product strategy for accessibility technology
-- Designing transformation-driven consumer apps (behavior change, not just features)
-- Privacy-first architecture for sensitive data workflows
 - Writing poetry that responds to visual art
 
 ---
