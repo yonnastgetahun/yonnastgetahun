@@ -1,23 +1,53 @@
 # Hi, I'm Yonnas 👋
 
-📍 **Los Angeles, CA** | 🚀 **AI Product Leader** | 🎙️ **Accessibility Pioneer** | ✍️ **Published Poet**
+📍 **Los Angeles, CA** | 🚀 **AI Product Leader** | 🤖 **Multi-Agent Systems** | 🎙️ **Accessibility Pioneer** | ✍️ **Published Poet**
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
-> AI Product Manager who ships models, not just roadmaps. I built a 3B-parameter VLM that generates real-time audio descriptions at **2.4ms latency** — 960x faster than GPT-4. I also build products across consumer, B2B SaaS, and hardware — from iOS apps to immersive entertainment systems. Previously at Zillow. Published poet. Former refugee turned builder.
+> AI Product Manager who ships models, not just roadmaps — and multi-agent systems that work while you sleep. I built a 3B-parameter VLM that generates real-time audio descriptions at **2.4ms latency** — 960x faster than GPT-4. I build products across consumer, B2B SaaS, and hardware — from iOS apps to immersive entertainment systems. Previously at Zillow. Published poet. Former refugee turned builder.
 
 ---
 
 ## 🔭 What I'm Building
 
-### 🎙️ [Visual Narrator](https://github.com/yonnastgetahun/visual-narrator-llm) — *AI-Powered Real-Time Audio Description*
+---
+
+### 🤖 AI Agentic & Orchestration
+
+---
+
+### ⚙️ Groker — *Multi-Agent AI Orchestration System* `Internal Tool` `Live`
+
+A personal AI operating system that orchestrates specialized agents — Sage (architect), Ralph (engineer), Witness (QA) — to execute end-to-end software development autonomously. Groker has successfully planned, implemented, reviewed, and merged features across multiple live products without human intervention at the task level.
+
+- 🧠 **End-to-end AI development:** From product spec → implementation → QA → merge, fully automated
+- 📋 107 tasks orchestrated across Flokt, Lendlee, and SHRPR — 62 merged autonomously
+- 🗣️ Natural language task creation, plan approval, and status tracking via CLI
+- 🔄 Role-based agent routing: architect → engineer → QA judge per task type
+- ⚡ Provider-agnostic: routes to GPT-5.5, Claude, DeepSeek, or Qwen based on task tier
+
+---
+
+### 📞 Agentic Orchestration Call-in Stand-up Voice Prototype `Internal Tool` `Live (Prototype)`
+
+A voice AI interface to the Groker system, reachable by phone. Delivers daily AI stand-ups, answers questions about the live task board, and accepts voice commands to approve plans or complete tasks — all via a standard phone call.
+
+- 📲 Live at **+1 (213) 512-0334** — call to interact with your AI task system
+- 🌅 Automated 7am daily stand-up delivered via Telegram with live task context
+- 🎯 Caller ID awareness — greets by name, loads personalized project context
+- 🔗 Powered by Telnyx Call Control + OpenClaw gateway + GPT-5.5
+
+---
+
+### 🎙️ [Visual Narrator](https://github.com/yonnastgetahun/visual-narrator-llm) — *AI-Powered Real-Time Audio Description* `Web App` `B2B2C` `In Development`
 
 A 3B parameter vision-language model that generates cinematic audio descriptions for visual media — making video accessible to blind and low-vision users in real time.
 
@@ -26,26 +56,43 @@ A 3B parameter vision-language model that generates cinematic audio descriptions
 - 🏗️ B2B2C for streaming platforms — professional-grade audio description at a fraction of traditional costs
 - 📄 Patent pending: AI glasses cinema accessibility system with sub-100ms latency & spatial audio rendering
 
-### 🧠 SHRPR — *Decision Fitness App* `iOS` `Live on the App Store`
+---
 
-Originally developed as SciLogic, SHRPR is a published iOS decision-fitness app that builds real-world critical thinking skills through case-based scenarios. Solo-built from concept to App Store approval in 8 days using multi-agent AI development. Live at shrpr.me.
+### 💌 [Flokt](https://github.com/yonnastgetahun/Flokt) — *RSVP Together* `iOS App` `App Store`
 
-* 📱 Live on the App Store - case-based learning, XP system, 8 rank tiers, 9 badges, daily streaks
-* 🎯 4 Acts with progressive unlock gates across 105 original case files
-* 📈 Positioned as decision fitness, not education - "Sharpen your thinking, one case at a time"
-* 💡 Built for The Sharp Parent (30-50) - adults who want to think more clearly and model it for their kids
-* ⚡ Equivalent traditional development cost: $55K-$130K. Actual cost: Claude Pro + $99 Apple Developer account
+An iMessage extension that makes group RSVPs frictionless — invite friends, collect RSVPs, and coordinate plans without leaving Messages. Solo-built from zero to App Store using multi-agent AI development.
 
-### 📚 Lendlee — *Community-Powered Lending Tracker* `iOS` `In Development`
+- 📱 Native iMessage extension built with SwiftUI
+- 🎉 Compact + detail view transitions for seamless in-thread coordination
+- 👥 Real-time RSVP tracking: going, maybe, can't make it
+- ⚡ Built with multi-agent AI: concept to App Store in days, not months
 
-A relationship-first app that tracks items lent to friends and neighbors with gentle automated reminders — so generosity never costs a friendship. Starting with books, expanding to tools, kitchen items, and more.
+---
+
+### 🧠 [SHRPR](https://shrpr.me) — *Decision Fitness App* `iOS App` `App Store`
+
+A published iOS decision-fitness app that builds real-world critical thinking skills through case-based scenarios. Solo-built from concept to App Store in 8 days using multi-agent AI development.
+
+- 📱 Live on the App Store — XP system, 8 rank tiers, 9 badges, daily streaks
+- 🎯 4 Acts with progressive unlock gates across 105 original case files
+- 📈 "Sharpen your thinking, one case at a time"
+- 💡 Built for The Sharp Parent (30–50) — adults who want to think more clearly and model it for their kids
+- ⚡ Equivalent traditional development cost: $55K–$130K. Actual cost: Claude Pro + $99 Apple Developer account
+
+---
+
+### 📚 [Lendlee](https://lend-a-hand-happy.lovable.app/) — *Community-Powered Lending Tracker* `iOS App` `Pre-Launch`
+
+A relationship-first app that tracks items lent to friends and neighbors with gentle automated reminders — so generosity never costs a friendship.
 
 - 💚 Inspired by the Buy Nothing movement — mutual aid meets thoughtful UX
-- 🔄 4-step flow: Add item → Choose person → Set reminder → Return & close loop
-- 🎨 Warm emotional design: "Lending is generous. Forgetting is human."
-- 🌱 [Landing page live](https://lend-a-hand-happy.lovable.app/)
+- 🔄 Core build complete: WHO → WHAT → WHEN → SMS flow fully implemented
+- 📦 Supabase backend live, Expo mobile app built, SMS notifications integrated
+- 🌱 Targeting App Store submission
 
-### 📋 Continuity PO Maker — *Production Finance Workflow Tool* `Desktop` `Beta`
+---
+
+### 📋 [Continuity PO Maker](https://github.com/yonnastgetahun/continuityflow) — *Production Finance Workflow Tool* `Web App` `Desktop` `Beta`
 
 A privacy-first tool that turns W-9s and invoices into approval-ready purchase orders for film, TV, and commercial production teams. Local document processing — no cloud upload required.
 
@@ -60,10 +107,10 @@ A privacy-first tool that turns W-9s and invoices into approval-ready purchase o
 
 | Domain | Details |
 |---|---|
-| **AI/ML** | Vision-Language Models, Real-Time Inference, PyTorch, Model Optimization, Latency Engineering |
+| **AI/ML** | Vision-Language Models, Multi-Agent Orchestration, Real-Time Inference, PyTorch, Model Optimization |
 | **Product** | 0→1 Strategy, B2B2C & Consumer Positioning, Patent Development, Transformation-Driven Design |
-| **Engineering** | Python, TypeScript, Swift, React, AWS, Docker, CI/CD |
-| **Domain Expertise** | Accessibility, Streaming/Media, Production Finance, Immersive Entertainment, EdTech |
+| **Engineering** | Python, TypeScript, Swift, React, Expo, Supabase, AWS, Docker, CI/CD |
+| **Domain Expertise** | Accessibility, Streaming/Media, Production Finance, Immersive Entertainment, AI Orchestration |
 
 ---
 
@@ -79,6 +126,8 @@ A privacy-first tool that turns W-9s and invoices into approval-ready purchase o
 
 ## 💬 Ask Me About
 
+- Multi-agent AI orchestration and autonomous software development
+- Building AI-native voice interfaces and phone-based AI systems
 - Building production VLMs with sub-millisecond latency
 - Product strategy for accessibility technology
 - Designing transformation-driven consumer apps (behavior change, not just features)
