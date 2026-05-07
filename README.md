@@ -16,6 +16,18 @@
 
 ---
 
+## 📦 Platform Reach
+
+| Platform | Products |
+|---|---|
+| **Internal Tools** | Groker (AI orchestration), Voice Stand-up Prototype |
+| **iOS App Store** | SHRPR, Flokt, Lendlee *(Pre-Launch)* |
+| **iMessage Extension** | Flokt |
+| **Web App** | Visual Narrator, Continuity PO Maker |
+| **Google Play** | Lendlee *(Ready, Pre-Launch)* |
+
+---
+
 ## 🔭 What I'm Building
 
 ---
